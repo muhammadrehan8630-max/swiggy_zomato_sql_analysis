@@ -81,6 +81,7 @@ The goal is to generate business insights that can help improve delivery operati
 ## 📂 Project Files
 - `swiggy_orders_clean.sql` → SQL analysis queries
 - `swiggy_zomato_dashboard.pdf` → Power BI dashboard export
+- `swiggy_zomato_dashboard.pbix` file excluded due to Github file size limitations
 
 ---
 
